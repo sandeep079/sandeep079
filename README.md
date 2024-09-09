@@ -1,9 +1,8 @@
 # Hi 👋 ,I’m Sandeep Yadav !
 <u> </U>
 ## Fueled by a deep passion for innovation
-## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=adititapariya&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=sandeep079&color=blue)
 
 
 I'm Sandeep Yadav, a second-year student at IOE Pulchowk , passionate about technology and innovation. I excel in algorithm development and programming with  Arduino,KIcad,C,  C++,and Python . I'm also comfortable working in simulation environments and Linux, and I strive to apply my skills to impactful projects and meaningful contributions.

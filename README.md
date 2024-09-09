@@ -14,7 +14,8 @@ I'm Sandeep Yadav, a second-year student at IOE Pulchowk , passionate about tech
 - ⚡ Fun fact:"Did you know? I built a robot that started making sandcastles on the beach—it’s got a creative side!"
 
 ### 🔧 Tools & Languages
-    | 
+
+| Tool/Language    | Badge/Logo |
 |------------------|------------|
 | C                | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
 | C++              | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
@@ -25,9 +26,3 @@ I'm Sandeep Yadav, a second-year student at IOE Pulchowk , passionate about tech
 | Arduino          | ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) |
 
 
-## 🔧 Technologies & Tools
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-...

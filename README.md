@@ -13,6 +13,18 @@ I'm Sandeep Yadav, a second-year student at IOE Pulchowk , passionate about tech
 - 📫 Reach me at [079bel078.sandeep@pcampus.edu.np](mailto:079bel078.sandeep@pcampus.edu.np)
 - ⚡ Fun fact:"Did you know? I built a robot that started making sandcastles on the beach—it’s got a creative side!"
 
+### 🔧 Tools & Languages
+
+| Tool/Language    | Badge/Logo |
+|------------------|------------|
+| C                | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
+| C++              | ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| Python           | ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) |
+| Git              | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| Embedded Systems | ![Embedded](https://img.shields.io/badge/Embedded%20Systems-%2314354C.svg?style=for-the-badge&logo=embedded&logoColor=white) |
+| KiCad            | ![KiCad](https://img.shields.io/badge/KiCad-%23326CE5.svg?style=for-the-badge&logo=kicad&logoColor=white) |
+| Arduino          | ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) |
+
 
 ## 🔧 Technologies & Tools
 

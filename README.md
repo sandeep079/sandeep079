@@ -7,7 +7,7 @@
 
 I'm Sandeep Yadav, a second-year student at IOE Pulchowk , passionate about technology and innovation. I excel in algorithm development and programming with  Arduino,KIcad,C,  C++,and Python . I'm also comfortable working in simulation environments and Linux, and I strive to apply my skills to impactful projects and meaningful contributions.
 
-- 🔭 I’m currently working at [PCampus Robotics Department](https://robotics.pcampus.edu.np)
+- 🔭 I’m currently working at [ Robotics club ,Pulchowk Campus](https://robotics.pcampus.edu.np)
 - 🌱 I’m learning open cv
 - 💬 Ask me about Arduino,Kicad,C,C++ or Robotics
 - 📫 Reach me at [079bel078.sandeep@pcampus.edu.np](mailto:079bel078.sandeep@pcampus.edu.np)

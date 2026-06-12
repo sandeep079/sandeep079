@@ -9,7 +9,7 @@ I'm Sandeep Yadav, a final-year student at IOE Pulchowk , passionate about techn
 
 - 🔭 I’m currently working at [ Robotics club ,Pulchowk Campus](https://robotics.pcampus.edu.np)
 - 🌱 I’m learning **MPC**
-- 💬 Ask me about **Arduino,Kicad,Matlab,C,C++,Sensor fusion or Robotics**
+- 💬 Ask me about **Arduino,STM32, Kicad,Matlab,C,C++,Sensor fusion or Robotics**
 - 📫 Reach me at [079bel078.sandeep@pcampus.edu.np](mailto:079bel078.sandeep@pcampus.edu.np)
 - ⚡ Fun fact:"Did you know? I built a robot that started making sandcastles on the beach—it’s got a creative side!"
 
